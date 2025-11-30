@@ -1,0 +1,79 @@
+Daniel D. Dompreh
+Address: 1005 Virginia Dr, Mansfield, TX 76063
+Email: yawdompreh@gmail.com
+Mobile Phone: 614-218-4856 Office Phone: 614-392-3260
+Summary: A highly analytical and data-driven professional with a strong background in statistics and data science. Holds a Data Science Certificate and has experience in data cleaning, exploration, visualization, and modeling. Skilled in programming languages such as Python and SQL, with over 5 years of experience in both. Additionally, has over 22 years of experience in advanced Excel. Eager to apply skills to help organizations make data-driven decisions and gain valuable insights from their data to improve business operations and drive growth. Has a history of consulting in the engineering industry and the medical transportation industry, with skills in research, management, data analysis, strategic planning, and leadership.
+Education:
+•
+Data Science Certificate, Thinkful | UX/UI Certificate (2022-2023)
+•
+MBA in Finance Concentration, Ohio Dominican University-Columbus (2015-2017)
+•
+BSc in Chemical Engineering, University of Matanzas - Cuba (1995-2000)
+Certifications:
+•
+Data Science (Python, SQL)
+Experience:
+Quality Management Advisor, JPMorgan Chase & Co (CxLoyalty Acquisitions LLC) - 2018-Present
+•
+Leads a team of full and part-time front-line employees in quality matters.
+•
+Train new employees in processes and business guidelines to comply with regulatory requirements.
+•
+Monitor daily production goals based on productivity targets, and resources.
+•
+Responsible for monitoring the team's output and managing assigned personnel to ensure all throughput goals are achieved.
+•
+Responsible for operations, including personnel management, process delays, breakdowns, and problem resolution.
+•
+Ensures compliance with customer and bank guidelines, policies, and procedures.
+•
+Tracks team performance and implements action plans for improved performance and high quality.
+•
+Responsible for writing and reviewing all business process documents.
+•
+Responsible for business and compliance audits.
+•
+Utilizes SQL to retrieve research-supported data from Oracle database using TOAD/ PGAdmin to resolve customer escalations and compliance audit.
+Licensed Benefits Advisor, AFLAC - 2017-2020
+•
+Sales, including presentations, B2B management, enrollment, guidance, and education on insurance products.
+•
+Entrepreneurial ambitions, providing strategic and executable solutions to clients.
+•
+Marketing strategy and lead generation.
+•
+Customer/client/business owner relationship, service, and management.
+•
+Leadership and management of customer relationships.
+•
+Benefits expertise as an enroller, counselor, worksite liaison, and communication preferences.
+•
+Maintaining state licensing in Life, Accident, and Health insurance.
+Bilingual Customer Support Specialist, CxLoyalty LLC - 2008-2018
+•
+Answered a broad range of customer inquiries via phone in Spanish and English.
+•
+De-escalated calls and provided permanent resolutions to customer concerns.
+•
+Provided tech support assistance to members.
+•
+Handled remediation letters on behalf of clients.
+Scientific Officer, Ghana Standards Board - 2004-2008
+•
+Implemented ISO 9000 series in the Textile and Polymer Laboratories.
+•
+Evaluated the quality of textiles, polymer, and chemical-based products.
+•
+Inspected materials science-based factories.
+Projects:
+•
+Supervised Learning Credit Card Fraud Detection: Utilized machine learning algorithms to detect fraudulent credit card transactions.
+•
+Unsupervised Learning Wine Clustering: Applied unsupervised learning techniques to classify and cluster different types of wine based on their chemical characteristics.
+•
+Machine Data Extraction: Developed a Python script to extract machine data from various sources and store it in a structured format on a network folder.
+•
+Predictive Maintenance: Utilized machine learning techniques to create a model that predicts equipment failures, reducing downtime and maintenance costs by 20%.
+•
+Customer Segmentation: Utilized clustering techniques to segment customers, providing insights for targeted marketing.
